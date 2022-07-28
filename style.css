@@ -8,8 +8,11 @@
 }
 
 .bg-danger-bk {
-  background-color: #f1f1ef;
+  background-color: #ffa502;
 }
 .bg-danger-bf {
   background-color: #f4fafd;
+}
+.btn-primary-ch {
+  background-color: #7bed9f;
 }
