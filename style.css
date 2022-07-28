@@ -6,3 +6,10 @@
 .social {
   padding-right: 1rem;
 }
+
+.bg-danger-bk {
+  background-color: #f1f1ef;
+}
+.bg-danger-bf {
+  background-color: #f4fafd;
+}
